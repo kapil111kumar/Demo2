@@ -2,6 +2,7 @@
 #include <conio.h>
 //hello shubham
 //hello tanu
+//to equate array
 void main()
 {
  int a[5],b[5],i,flag=0;
