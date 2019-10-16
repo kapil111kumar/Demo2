@@ -13,9 +13,8 @@ scanf("%d",&a[i]);
  }
  printf("enter the values of b\n");
  for(i=0;i<5;i++)
- {
      scanf("%d",&b[i]);
- }
+ 
  for(i=0;i<5;i++)
  {
    if(a[i]!=b[i])
