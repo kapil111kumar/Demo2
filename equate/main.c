@@ -25,8 +25,12 @@ scanf("%d",&a[i]);
     }
  }
  if(flag==1)
-    printf("array are not equal");
+ {
+  printf("array are not equal");
+ }
  else
-    printf("array are equal");
+ {
+  printf("array are equal");
+ }
  getch();
 }
